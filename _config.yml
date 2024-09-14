@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
   DSY In COEP
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: "http://127.0.0.1:4000"
+url: "https://dsyincoep.github.io"
 
 github:
   username: ShingareOm # change to your github username
